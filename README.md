@@ -23,7 +23,7 @@
   <p align="center"> 
     <br />&#10023;
     <a href="#Demo">View Demo</a>   &#10023;  
-    <a href="https://github.com/limbaniakash/Weather-App/issues">Report Bug</a>    &#10023;
+    <a href="https://github.com/aakash-limbani/Weather-App/issues">Report Bug</a>    &#10023;
     <a href="#Getting-Started">Getting Started</a> &#10023; <a href="#Install">Installing</a> &#10023;    
     <a href="#Contact">Author</a> &#10023;
   </p>
@@ -79,13 +79,13 @@ This project was built using React v 17.0.2, Redux v 4.1.2, Chakra UI, CSS and R
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/limbaniakash/Weather-App) or just clone the project using this command. 
+The project repository can be found in [GitHub link](https://github.com/aakash-limbani/Weather-App) or just clone the project using this command. 
 
 
 ```
 Using HTTPS
 
-# git clone  https://github.com/limbaniakash/Weather-App.git
+# git clone  https://github.com/aakash-limbani/Weather-App.git
 ```
 
 + Open terminal on your workspace with
@@ -145,7 +145,7 @@ npm run dev
 If you want to contact me, you can reach me through below handles.
 
 [![linkedin](https://img.shields.io/badge/Aakash_Limbani-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-limbani/)
-[![Twitter](https://img.shields.io/badge/Aakash_Limbani-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/limbaniakash/)
+[![Twitter](https://img.shields.io/badge/Aakash_Limbani-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/aakash-limbani/)
 
 © 2023 Aakash Limbani
 
